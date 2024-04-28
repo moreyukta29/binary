@@ -1,0 +1,52 @@
+
+[
+  {
+    "id": 1,
+    "name": "Yukta More",
+    "age": 24,
+    "location": "India",
+    "occupation": "React.js Developer",
+    "interests": "Software",
+    "address": "Deccan Gymkhanna ,pune, maharashtra",
+    "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile3.png",
+    "instagram": "Y.s.more",
+    "linkedin": "yuktamore"
+   },
+   {
+     "id": 2,
+     "name": "Ashish Rajput",
+     "age": 25,
+     "location": "Jalgoan, maharashtra",
+     "occupation": "Software Engineer",
+     "interests": "Reading, Hiking, Photography",
+     "address": "Nehru Nagar ,Mehrun Lake,jalgoan,maharashtra",
+     "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile1.jpeg",
+     "instagram": "rajput_ashish11",
+     "linkedin": "AshishRajput"
+    },
+    {
+      "id": 3,
+      "name": "Sejal Longadge",
+      "age": 23,
+      "location": "Nagpur, maharashtra",
+      "occupation": ".net Designer",
+      "interests": "Traveling, Painting, Cooking",
+      "address": "suyog nagar , nagpur",
+      "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile3.png",
+      "instagram": "sejjal_longadge_17",
+      "linkedin": "SejalLongadge"
+    },
+    {
+      "id": 4,
+      "name": "Monali Dhakate",
+      "age": 21,
+      "location": "baner ,pune",
+      "occupation": "Marketing Manager",
+      "interests": "Sports, Movies, Music",
+      "address": "sus gaon,baner, pune , maharashtra",
+      "image": "https://explore-mohit-19-4-2024.s3.ap-south-1.amazonaws.com/Profile1.jpeg",
+      "instagram": "_moneee_12",
+      "linkedin": "monali-dhakate-b3a151267"
+    }
+  ]
+  
